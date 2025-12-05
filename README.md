@@ -145,7 +145,7 @@ Real applications grow complex. Separating codebase makes the codebase maintaina
 
 \- \*\*Filters/Search\*\*: Filter by city, price range
 
-\- \*\*Pagination\*\*: Handle large property lists
+<!-- \- \*\*Pagination\*\*: Handle large property lists -->
 
 
 
