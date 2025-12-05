@@ -156,8 +156,6 @@ Real applications grow complex. Separating codebase makes the codebase maintaina
 \- \*\*CI/CD\*\*: GitHub Actions for automated testing/deployment
 
 
-\## Project Structure Decisions
-
 
 
 
