@@ -111,7 +111,7 @@ frontend/
 
 ```
 
-\*\* Arychitecture is multi-layer, but Why multi-layer architecture?\*\*
+\*\* Architecture is multi-layer, but Why multi-layer architecture?\*\*
 
 Real applications grow complex. Separating codebase makes the codebase maintainable as features are added.
 
